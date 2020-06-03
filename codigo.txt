@@ -1,0 +1,31 @@
+<html lang="es">
+ <head>
+ <meta charset="iso-8859-1"> 
+ <meta name="description" content="PAGINA de HTML5">  
+ <meta name="keywords" content="HTML5, CSS3, JavaScript"> 
+ <title> CBTIS168</title> 
+ <link rel="stylesheet" href="misestilos.css">
+ </head>
+ <body>
+  <header>  
+<table  width="100%" height="100%">
+<tr>
+    <td colspan="10" align="center">  <img src="cerebrobueno.png" align="center" widht="400" height="300" ></td>
+</tr>
+<tr >
+	<td rowspan="3"><img src="infocbetis.PNG"widht="300" height="250" ></td>
+</tr>
+    
+    <tr>
+        <td colspan="3"><img src="carreras.PNG"widht="400" height="250" > </td>
+    </tr>
+<tr>
+    <td  colspan="3"></td>
+    </tr>
+	<tr>
+	<td colspan="3"><img src="horarios.png"widht="100" height="50" >Aqui puedes encontrar tu horario escolar</td>
+  	<td><img src="calendario.png"widht="100" height="50" > calendario escolar</td>
+	</tr>
+</table>
+  </body>
+  </html> 
